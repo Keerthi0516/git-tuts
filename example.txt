@@ -1,1 +1,1 @@
-this is the example of knowing git better
+this is the example of git
